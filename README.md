@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderEstrella
 - 👀 I’m interested in Web Development...
-- 🌱 I’m currently learning React/Python
+- 🌱 I’m currently learning React,Python & testing
 - 💞️ I’m looking to collaborate on Javascript projects
 - 📫 How to reach me @ alexanderestrella23@gmail.com
 
