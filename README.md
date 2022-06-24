@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexanderEstrella
-- 👀 I’m interested in Web Development...
+- 👀 I’m interested in Software Development...
 - 🌱 I’m currently learning React, Python & Testing...
-- 💞️ I’m looking to collaborate on Javascript projects
+- 💞️ I’m looking to collaborate on Javascript & Testing projects
 - 📫 How to reach me @ alexanderestrella23@gmail.com
 
 <!---
