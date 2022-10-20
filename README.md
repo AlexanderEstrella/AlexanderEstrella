@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @AlexanderEstrella
-- 👀 I’m interested in Software Development...
-- 🌱 I’m currently learning React, Python & Automated Testing...
+## - 👋 Hi, I’m @AlexanderEstrella
+
+##  About Me 
+
+- 👀 I’m a full-stack web developer looking for a opportunities.
+- 🚀 I’m currently learning Typescript, React, Python & Automated Testing...
 - 💞️ I’m looking to collaborate on all projects
 - 📫 How to reach me @ alexanderestrella23@gmail.com
 
