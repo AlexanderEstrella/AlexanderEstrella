@@ -1,6 +1,7 @@
 ## - 👋 Hi, I’m @AlexanderEstrella
 
 ##  About Me 
+- 👀 Medium articles: https://medium.com/@alexanderestrella23
 - 🚀 IT Certifcations: Comptia A+,Network+,Security+,Pentest+
 - 👀 I’m a full-stack web developer looking for a opportunities.
 - 🚀 I’m currently learning Typescript, React, Python & Automated Testing...
