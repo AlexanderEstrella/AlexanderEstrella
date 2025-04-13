@@ -2,7 +2,7 @@
 
 ##  About Me 
 - 👀 Medium articles: https://medium.com/@alexanderestrella23
-- 🚀 IT Certifcations: Comptia A+,Network+,Security+,Pentest+
+- 🚀 IT Certifcations: Comptia A+,Network+,Security+,Pentest+,CASP+
 - 👀 I’m a full-stack web developer looking for a opportunities.
 - 🚀 I’m currently learning Typescript, React, Python & Automated Testing...
 - 💞️ I’m looking to collaborate on all projects
