@@ -13,9 +13,5 @@ AlexanderEstrella/AlexanderEstrella is a ✨ special ✨ repository because its 
 You can click the Preview link to take a look at your changes.
 --->
 
-### Languages
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational)
-![C%23](https://img.shields.io/badge/Code-C%23-informational)
-![SQL](https://img.shields.io/badge/Code-SQL-informational)
-![Python](https://img.shields.io/badge/Code-Python-informational)
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GH_USERNAME&layout=compact&langs_count=8)
