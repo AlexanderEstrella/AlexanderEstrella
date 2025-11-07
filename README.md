@@ -47,12 +47,7 @@
     alt="Top languages"
   />
 </p>
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AlexanderEstrella&show_icons=true&rank_icon=github&include_all_commits=true"
-    alt="GitHub stats"
-  />
-</p>
+
 
 ---
 
