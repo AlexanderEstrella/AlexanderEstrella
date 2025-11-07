@@ -1,20 +1,64 @@
-## - 👋 Hi, I’m @AlexanderEstrella
+<h1 align="left">Alexander Estrella</h1>
+<p align="left">
+  Full-stack engineer • ERP/Accounting integrations (Sage Intacct, Sage 300) • Azure cloud • Security-minded automation
+</p>
 
-##  About Me 
-- 👀 Medium articles: https://medium.com/@alexanderestrella23
-- 🚀 IT Certifcations: Comptia A+,Network+,Security+,Pentest+,CASP+
-- 👀 I’m a full-stack web developer looking for a opportunities.
-- 🚀 I’m currently learning Typescript, React, Python & Automated Testing...
-- 💞️ I’m looking to collaborate on all projects
-- 📫 How to reach me @ alexanderestrella23@gmail.com
+<!-- Quick credibility: crisp, skimmable bullets -->
+- 🚀 I build reliable data/ETL pipelines and API integrations for ERP systems (Node.js, C#, SQL Server, Intacct SDK & REST).
+- 🧰 8+ years across IT, cloud, and software—owning delivery from requirements → code → production.
+- 🛡️ CompTIA: A+, Network+, Security+, PenTest+, CASP+.
+- ✍️ I write about practical engineering & automation: [Medium](https://medium.com/@alexanderestrella23)
 
-<!---
-AlexanderEstrella/AlexanderEstrella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
 
-### Languages
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational)
-![C%23](https://img.shields.io/badge/Code-C%23-informational)
-![SQL](https://img.shields.io/badge/Code-SQL-informational)
-![Python](https://img.shields.io/badge/Code-Python-informational)
+### Tech I use
+<!-- Keep this short and senior—grouped by platform -->
+**Languages:** JavaScript/TypeScript · C# · SQL (T-SQL) · Python  
+**Back end:** Node.js/Express · .NET · REST/SOAP · MSSQL · MongoDB  
+**Cloud & DevOps:** Azure App Service · AVD · Azure SQL · Azure DevOps · Git · CI/CD · Docker  
+**Front end:** React · Bootstrap · Tailwind (basic)  
+**Automation:** Power Automate · Scheduled ETL jobs · Windows services
+
+---
+
+### What I’m focusing on now
+- 🔗 Sage Intacct REST integrations (AP/AR/GL, Purchasing, bulk import flows)
+- 🧱 Durable ETL frameworks (retry logic, batch sizing, idempotent upserts)
+- 📈 Operational dashboards & alerting (SQL + Node + minimal UI)
+
+---
+
+### Featured work
+<!-- Swap in different repos anytime; the goal is “impact + tech” in one line -->
+- **ManagementCO** – Multi-user credential manager (JS/Node). Focus: secure storage, clean UX.  
+- **ManagementCO-CSharp** – Port of the above to C#/.NET for Windows environments.  
+- **Stock-News-Scanner (Python)** – NLP-assisted news scanner with email alerts and rules engine.  
+- **ETL Utilities (Node/C#)** – Helpers for Intacct bulk imports, error append, result polling.
+
+> Tip: Pin these repos so they appear first on your profile.
+
+---
+
+### Metrics (for the skimmers)
+<!-- Uses count_weight so one giant repo doesn’t dominate your languages -->
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderEstrella&layout=compact&size_weight=0&count_weight=1&hide=html,css,cython,jupyter%20notebook"
+    alt="Top languages"
+  />
+</p>
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AlexanderEstrella&show_icons=true&rank_icon=github&include_all_commits=true"
+    alt="GitHub stats"
+  />
+</p>
+
+---
+
+### Certifications
+A+ · Network+ · Security+ · PenTest+ · **CASP+**
+
+### Contact
+📫 alexanderestrella23@gmail.com
+****
