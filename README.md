@@ -1,6 +1,6 @@
 <h1 align="left">Alexander Estrella</h1>
 <p align="left">
-  Full-stack engineer • ERP/Accounting integrations (Sage Intacct, Sage 300) • Azure cloud • Security-minded automation
+  Full-stack engineer • ERP/Accounting integrations (Sage Intacct, Sage 300 ERP,Sage 300 CRE) • Azure cloud • Security-minded automation
 </p>
 
 <!-- Quick credibility: crisp, skimmable bullets -->
