@@ -5,7 +5,7 @@
 
 <!-- Quick credibility: crisp, skimmable bullets -->
 - 🚀 I build reliable data/ETL pipelines and API integrations for ERP systems (Node.js, C#, SQL Server, Intacct SDK & REST).
-- 🧰 8+ years across IT, cloud, and software—owning delivery from requirements → code → production.
+- 🧰 6+ years across IT, cloud, and software—owning delivery from requirements → code → production.
 - 🛡️ CompTIA: A+, Network+, Security+, PenTest+, CASP+.
 - ✍️ I write about practical engineering & automation: [Medium](https://medium.com/@alexanderestrella23)
 
